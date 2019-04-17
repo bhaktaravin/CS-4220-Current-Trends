@@ -1,0 +1,17 @@
+Numbers API
+Search - http://numbersapi.com/<number>
+Data Fetch - http://numbersapi.com/number/type
+No API Key required
+
+RICK AND MORTY
+Search - https://rickandmortyapi.com/api/
+Data Fetch - https://rickandmortyapi.com/api/character/{characterID}
+No API Key Required
+
+The Cat Api
+Search - https://api.thecatapi.com/v1/images/search
+Data Fetch - https://api.thecatapi.com/v1
+API Key Required
+
+
+

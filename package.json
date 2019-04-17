@@ -1,0 +1,27 @@
+{
+  "name": "thecatapi-bot",
+  "version": "1.0.0",
+  "description": "Example of using TheCatAPI.com & TheDogAPI.com with Discord Commando Bot Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aden Forshaw",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2",
+    "libsodium-wrappers": "^0.7.4",
+    "paho": "^1.0.0",
+    "paho-mqtt": "^1.1.0",
+    "query-string": "^6.1.0",
+    "r2": "^2.0.1",
+    "superagent": "^4.1.0",
+    "terminal-image": "^0.1.2",
+    "terminal-link": "^1.2.0",
+    "thecatapi-commando": "file:../custom-module",
+    "window": "^4.2.6",
+    "yargs": "^13.2.2"
+  }
+}
